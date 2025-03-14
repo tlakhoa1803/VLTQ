@@ -9,7 +9,7 @@ const songs = [
     { image: 'image/8.jpg', song: 'music/5.m4a', title: 'Làm', startTime: 50 },
     { image: 'image/9.jpg', song: 'music/6.m4a', title: 'Người yêu', startTime: 7 },
     { image: 'image/10.jpg', song: 'music/7.m4a', title: 'Toai', startTime: 8 },
-    { image: 'image/11.JPG', song: 'music/8.m4a', title: 'Nhó 🙆', startTime: 12 }
+    { image: 'image/11.jpg', song: 'music/8.m4a', title: 'Nhó 🙆', startTime: 12 }
 ];
 
 let currentIndex = 0;
